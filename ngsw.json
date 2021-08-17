@@ -1,0 +1,90 @@
+{
+  "configVersion": 1,
+  "timestamp": 1629182481518,
+  "index": "/https://github.com/miguelhemmm/angular-web.git/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/https://github.com/miguelhemmm/angular-web.git/favicon.ico",
+        "/https://github.com/miguelhemmm/angular-web.git/index.html",
+        "/https://github.com/miguelhemmm/angular-web.git/main-es2015.eeb3791a5207b0634104.js",
+        "/https://github.com/miguelhemmm/angular-web.git/main-es5.eeb3791a5207b0634104.js",
+        "/https://github.com/miguelhemmm/angular-web.git/manifest.webmanifest",
+        "/https://github.com/miguelhemmm/angular-web.git/polyfills-es2015.a0fa45e0fa52702b64f0.js",
+        "/https://github.com/miguelhemmm/angular-web.git/polyfills-es5.2dcde1efe3c1bf4aaa25.js",
+        "/https://github.com/miguelhemmm/angular-web.git/runtime-es2015.409e6590615fb48d139f.js",
+        "/https://github.com/miguelhemmm/angular-web.git/runtime-es5.409e6590615fb48d139f.js",
+        "/https://github.com/miguelhemmm/angular-web.git/styles.e128a9a2de7c7ce5e55e.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/https://github.com/miguelhemmm/angular-web.git/assets/icons/icon-128x128.png",
+        "/https://github.com/miguelhemmm/angular-web.git/assets/icons/icon-144x144.png",
+        "/https://github.com/miguelhemmm/angular-web.git/assets/icons/icon-152x152.png",
+        "/https://github.com/miguelhemmm/angular-web.git/assets/icons/icon-192x192.png",
+        "/https://github.com/miguelhemmm/angular-web.git/assets/icons/icon-384x384.png",
+        "/https://github.com/miguelhemmm/angular-web.git/assets/icons/icon-512x512.png",
+        "/https://github.com/miguelhemmm/angular-web.git/assets/icons/icon-72x72.png",
+        "/https://github.com/miguelhemmm/angular-web.git/assets/icons/icon-96x96.png",
+        "/https://github.com/miguelhemmm/angular-web.git/assets/star_sky_04.jpg",
+        "/https://github.com/miguelhemmm/angular-web.git/star_sky_04.9165f0928ff0ceb1763f.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/https://github.com/miguelhemmm/angular-web.git/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/https://github.com/miguelhemmm/angular-web.git/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/https://github.com/miguelhemmm/angular-web.git/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/https://github.com/miguelhemmm/angular-web.git/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/https://github.com/miguelhemmm/angular-web.git/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/https://github.com/miguelhemmm/angular-web.git/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/https://github.com/miguelhemmm/angular-web.git/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/https://github.com/miguelhemmm/angular-web.git/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/https://github.com/miguelhemmm/angular-web.git/assets/star_sky_04.jpg": "d77a6a0d593eaac9c88a38aeb4b4a69090bc38b5",
+    "/https://github.com/miguelhemmm/angular-web.git/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/https://github.com/miguelhemmm/angular-web.git/index.html": "20980125b89139e260b5576e16f04abb63aa06c1",
+    "/https://github.com/miguelhemmm/angular-web.git/main-es2015.eeb3791a5207b0634104.js": "9074756a7e3cb2b14b8d63191a49ce005f0d246d",
+    "/https://github.com/miguelhemmm/angular-web.git/main-es5.eeb3791a5207b0634104.js": "a195825ad4b4958b2b1a3e167752ed45dd2b9901",
+    "/https://github.com/miguelhemmm/angular-web.git/manifest.webmanifest": "c61f19e1c96563e9042968aebe208519841e1f7b",
+    "/https://github.com/miguelhemmm/angular-web.git/polyfills-es2015.a0fa45e0fa52702b64f0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "/https://github.com/miguelhemmm/angular-web.git/polyfills-es5.2dcde1efe3c1bf4aaa25.js": "ff14d90e08622190714660721edab5f43578829a",
+    "/https://github.com/miguelhemmm/angular-web.git/runtime-es2015.409e6590615fb48d139f.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/https://github.com/miguelhemmm/angular-web.git/runtime-es5.409e6590615fb48d139f.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/https://github.com/miguelhemmm/angular-web.git/star_sky_04.9165f0928ff0ceb1763f.jpg": "d77a6a0d593eaac9c88a38aeb4b4a69090bc38b5",
+    "/https://github.com/miguelhemmm/angular-web.git/styles.e128a9a2de7c7ce5e55e.css": "8122df682bec5384b1563be8f705b8106615ff55"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
