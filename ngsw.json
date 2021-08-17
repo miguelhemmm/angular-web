@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1629183394673,
+  "timestamp": 1629185264933,
   "index": "https://miguelhemmm.github.io/angular-web/index.html",
   "assetGroups": [
     {
@@ -13,8 +13,8 @@
       "urls": [
         "https://miguelhemmm.github.io/angular-web/favicon.ico",
         "https://miguelhemmm.github.io/angular-web/index.html",
-        "https://miguelhemmm.github.io/angular-web/main-es2015.eeb3791a5207b0634104.js",
-        "https://miguelhemmm.github.io/angular-web/main-es5.eeb3791a5207b0634104.js",
+        "https://miguelhemmm.github.io/angular-web/main-es2015.87c06be3ccd5408c7919.js",
+        "https://miguelhemmm.github.io/angular-web/main-es5.87c06be3ccd5408c7919.js",
         "https://miguelhemmm.github.io/angular-web/manifest.webmanifest",
         "https://miguelhemmm.github.io/angular-web/polyfills-es2015.a0fa45e0fa52702b64f0.js",
         "https://miguelhemmm.github.io/angular-web/polyfills-es5.2dcde1efe3c1bf4aaa25.js",
@@ -58,9 +58,9 @@
     "https://miguelhemmm.github.io/angular-web/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://miguelhemmm.github.io/angular-web/assets/star_sky_04.jpg": "d77a6a0d593eaac9c88a38aeb4b4a69090bc38b5",
     "https://miguelhemmm.github.io/angular-web/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://miguelhemmm.github.io/angular-web/index.html": "3981a0a7ab6c94c2f219f2faf26c6b9b4c18042b",
-    "https://miguelhemmm.github.io/angular-web/main-es2015.eeb3791a5207b0634104.js": "9074756a7e3cb2b14b8d63191a49ce005f0d246d",
-    "https://miguelhemmm.github.io/angular-web/main-es5.eeb3791a5207b0634104.js": "a195825ad4b4958b2b1a3e167752ed45dd2b9901",
+    "https://miguelhemmm.github.io/angular-web/index.html": "82dd8d280b721a585dad24b030499fc0300a1e63",
+    "https://miguelhemmm.github.io/angular-web/main-es2015.87c06be3ccd5408c7919.js": "705a3898f3ae2a6cf7d253503b5a4df8e4ed6a54",
+    "https://miguelhemmm.github.io/angular-web/main-es5.87c06be3ccd5408c7919.js": "36222390f9e06fc8a887ccb4177fc9189724a786",
     "https://miguelhemmm.github.io/angular-web/manifest.webmanifest": "c61f19e1c96563e9042968aebe208519841e1f7b",
     "https://miguelhemmm.github.io/angular-web/polyfills-es2015.a0fa45e0fa52702b64f0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "https://miguelhemmm.github.io/angular-web/polyfills-es5.2dcde1efe3c1bf4aaa25.js": "ff14d90e08622190714660721edab5f43578829a",
